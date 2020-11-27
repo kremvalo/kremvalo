@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" />
 
 - 👨🏽‍💻 I’m currently working on [Imaginamos](https://github.com/imaginamos);
 - 🌱 I'm currently learning about DevOps and Mobile development; 
@@ -38,12 +38,20 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=kremvalo&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=kremvalo&show_icons=true&hide_border=true"/>
+    <img
+    align="left"
+    height="270em"
+    alt="kremvalo"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremvalo&theme=buefy&title_color=3081EC&icon_color=FFA500&text_color=000000&bg_color=FFFFFF&hide_border=true"
+  />
   </a>
-  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+ 
+</p>
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -62,8 +70,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/)](https://github.com/)
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://aws.amazon.com/es/)](https://aws.amazon.com/es/)
-
-</p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
 ⭐️ From [onimur](https://github.com/onimur)
