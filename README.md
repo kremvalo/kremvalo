@@ -70,6 +70,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/)](https://github.com/)
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://aws.amazon.com/es/)](https://aws.amazon.com/es/)
-
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
