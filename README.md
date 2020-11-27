@@ -60,14 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![ReactNative](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://reactnative.dev/)](https://reactnative.dev/)
-
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://www.mysql.com/)](https://www.mysql.com/)
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/)](https://github.com/)
-
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://aws.amazon.com/es/)](https://aws.amazon.com/es/)
