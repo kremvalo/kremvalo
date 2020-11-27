@@ -2,12 +2,16 @@
 ## Hi, I'm Karen Moreno, a Developer 🚀 from Colombia.
 
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" />
+
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
 [![HitCount](http://hits.dwyl.com/kremvalo/kremvalo/kremvalo.svg)](http://hits.dwyl.com/kremvalo/kremvalo/kremvalo)
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,9 +25,6 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" />
 
 - 👨🏽‍💻 I’m currently working on [Imaginamos](https://github.com/imaginamos);
 - 🌱 I'm currently learning about DevOps and Mobile development; 
