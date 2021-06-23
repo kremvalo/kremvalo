@@ -3,15 +3,7 @@
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" />
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-
-[![HitCount](http://hits.dwyl.com/kremvalo/kremvalo/kremvalo.svg)](http://hits.dwyl.com/kremvalo/kremvalo/kremvalo)
-
+<img width="55%" align="right" alt="Github" src="https://cdn.sparkfun.com/assets/home_page_posts/1/4/7/0/femalecodertocat.png" />
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
