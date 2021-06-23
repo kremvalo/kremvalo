@@ -18,11 +18,18 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Imaginamos](https://github.com/imaginamos);
+- 👨🏽‍💻 I’m currently working on [Imaginamos](https://www.imaginamos.com);
 - 🌱 I'm currently learning about DevOps and Mobile development; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I do not like maths;
 - 📫 How to reach me: kren.thinker@gmail.com;
+
+**Experience:**
+
+- Project Manager/Fullstack Dev - Mar 2021 to now: 
+- Tech Lead - Oct 2019/ Mar 2021: 
+- Fullstack Developer JS - Feb 2019/ Sep 2019 
+- Junior Developer .Net - Jul 2015/ Jan 2019
 
 **Languages and Tools:** 
 
