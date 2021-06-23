@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 - Fullstack Developer JS - Feb 2019/ Sep 2019 
 - Junior Developer .Net - Jul 2015/ Jan 2019
 
-**Languages and Tools:** 
+**Skills:** 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
