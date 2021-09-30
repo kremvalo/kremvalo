@@ -26,8 +26,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Experience:**
 
-- Project Manager/Fullstack Dev - Mar 2021 to now: 
-- Tech Lead - Oct 2019/ Mar 2021: 
+- Backend Dev NodeJS - Mar 2021 to now: 
+- Tech Lead/Fullstack NodeJs and React Native - Oct 2019/ Mar 2021: 
 - Fullstack Developer JS - Feb 2019/ Sep 2019 
 - Junior Developer .Net - Jul 2015/ Jan 2019
 
