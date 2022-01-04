@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Imaginamos](https://www.imaginamos.com);
+<!-- -- 👨🏽‍💻 I’m currently working on [Imaginamos](https://www.imaginamos.com); -->
 - 🌱 I'm currently learning about DevOps and Mobile development; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I do not like maths;
