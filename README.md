@@ -26,7 +26,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Experience:**
 
-- Backend Dev NodeJS - Mar 2021 to now: 
+- Frontend Dev ReactJS & React Native - Ene 2022 to now: 
+- Backend Dev NodeJS - Mar 2021 to Dic 2021: 
 - Tech Lead/Fullstack NodeJs and React Native - Oct 2019/ Mar 2021: 
 - Fullstack Developer JS - Feb 2019/ Sep 2019 
 - Junior Developer .Net - Jul 2015/ Jan 2019
