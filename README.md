@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- -- 👨🏽‍💻 I’m currently working on [Imaginamos](https://www.imaginamos.com); -->
-- 🌱 I'm currently learning about DevOps and Mobile development; 
+- 🌱 I'm currently learning Mobile development with Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I do not like maths;
 - 📫 How to reach me: kren.thinker@gmail.com;
