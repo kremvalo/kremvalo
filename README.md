@@ -19,14 +19,14 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- -- 👨🏽‍💻 I’m currently working on [Imaginamos](https://www.imaginamos.com); -->
-- 🌱 I'm currently learning Mobile development with Flutter; 
+- 🌱 I'm currently learning Mobile development with Flutter and English; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I do not like maths;
 - 📫 How to reach me: kren.thinker@gmail.com;
 
 **Experience:**
 
-- Frontend Dev ReactJS & React Native - Ene 2022 to now: 
+- Frontend Dev ReactJS, React Native and Flutter - Ene 2022 to now: 
 - Backend Dev NodeJS - Mar 2021 to Dic 2021: 
 - Tech Lead/Fullstack NodeJs and React Native - Oct 2019/ Mar 2021: 
 - Fullstack Developer JS - Feb 2019/ Sep 2019 
