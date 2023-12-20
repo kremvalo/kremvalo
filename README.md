@@ -26,7 +26,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Experience:**
 
-- Frontend Dev ReactJS, React Native and Flutter - Ene 2022 to now: 
+- Android Developer - Oct 2022 to now: 
+- Frontend Dev ReactJS, React Native and Flutter - Ene 2022/ Ago 2023: 
 - Backend Dev NodeJS - Mar 2021 to Dic 2021: 
 - Tech Lead/Fullstack NodeJs and React Native - Oct 2019/ Mar 2021: 
 - Fullstack Developer JS - Feb 2019/ Sep 2019 
